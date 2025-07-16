@@ -11,7 +11,6 @@ This is a responsive clone of the Spotify Web Player UI built using HTML and CSS
 - ⏯️ Bottom music player with controls and progress bar
 - 🎨 Clean layout using Font Awesome icons and Google Fonts
 
-
 ## Tech Stack
 
 - **HTML5**
