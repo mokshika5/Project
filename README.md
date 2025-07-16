@@ -19,3 +19,23 @@ This is a responsive clone of the Spotify Web Player UI built using HTML and CSS
 - **Font Awesome**
 - **Google Fonts**
 
+
+## first_project :
+# Interactive Navigation Menu
+
+This project is a simple and clean interactive navigation bar built using HTML, CSS, and JavaScript. The menu responds to user interactions such as scrolling, and is great for modern responsive websites.
+
+# Features
+
+- Sticky/fixed navigation bar
+- Responsive layout
+- Scroll-triggered visual effects (based on included JS behavior)
+- Modern UI with icon support
+- Easy to customize and extend
+
+# 🛠Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript
+
