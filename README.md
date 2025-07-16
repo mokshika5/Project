@@ -40,8 +40,8 @@ This project is a simple and clean interactive navigation bar built using HTML, 
 - JavaScript
 
 
-#pet:
-# Pet Adoption Website
+# pet:
+## Pet Adoption Website
 
 This is a simple and responsive **Pet Adoption landing page** built using **HTML** and **CSS**. It highlights lovable pets (like Jerry the dog and Tom the cat) that are up for adoption and encourages users to give them a new home.
 
@@ -60,6 +60,28 @@ This is a simple and responsive **Pet Adoption landing page** built using **HTML
 
 - HTML5
 - CSS3 (external stylesheet)
+
+# project :
+# Photography Sidebar Menu | Mini CSS Project
+
+This project is a modern **responsive sidebar navigation menu** built using **HTML**, **CSS**, and **Font Awesome icons**. It includes toggle functionality with a stylish sliding effect — perfect for creative portfolios, especially photography websites.
+
+## Features
+
+- 📱 Responsive sidebar navigation
+- 📷 Photography-themed branding
+- 📂 Menu options like Gallery, Store, Events, Contact
+- 📌 Toggle button (hamburger menu)
+- 🔒 Smooth show/hide animation using a checkbox toggle
+- 🎨 Custom fonts via Google Fonts (Poppins)
+- 🌐 Social media icons with Font Awesome
+
+## Tech Stack
+
+- **HTML5**
+- **CSS3**
+- **Font Awesome 6**
+- **Google Fonts (Poppins)**
 
 
 
