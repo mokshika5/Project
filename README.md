@@ -52,17 +52,13 @@ This is a simple and responsive **Pet Adoption landing page** built using **HTML
 - Simple and modern typography
 - Easy to customize for any adoption or animal rescue initiative
 
-## Preview
-
-*(Insert a screenshot or GIF if available)*
-
 ##  Tech Stack
 
 - HTML5
 - CSS3 (external stylesheet)
 
 # project :
-# Photography Sidebar Menu | Mini CSS Project
+## Photography Sidebar Menu | Mini CSS Project
 
 This project is a modern **responsive sidebar navigation menu** built using **HTML**, **CSS**, and **Font Awesome icons**. It includes toggle functionality with a stylish sliding effect — perfect for creative portfolios, especially photography websites.
 
@@ -82,6 +78,25 @@ This project is a modern **responsive sidebar navigation menu** built using **HT
 - **CSS3**
 - **Font Awesome 6**
 - **Google Fonts (Poppins)**
+
+# second_project :
+## Web Stopwatch
+
+This is a simple, functional **web-based stopwatch** built using **HTML**, **CSS**, and **JavaScript**. The stopwatch includes Start, Stop, and Reset buttons and displays time in `HH : MM : SS` format.
+
+## Features
+
+- ✅ Start, Stop, and Reset controls
+- 🕒 Time displayed in hours, minutes, and seconds
+- 🎨 Basic styling with color-coded buttons
+- 💡 Lightweight and beginner-friendly project
+
+## Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript (Vanilla JS)
+
 
 
 
